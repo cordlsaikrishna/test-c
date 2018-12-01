@@ -1,4 +1,3 @@
 # test-c
 
-
-test 123
+test
